@@ -2,7 +2,7 @@
 
 Elevate Labs DevOps Internship Task 3
 
-## Implemetation
+## Implementation
 
 - Installed Terraform on Windows. Added the Binary path to Windows CMD and GitBash $PATH:PATH.
 - Searched Terraform documents for Startup guide. Looked into terraform docker providers (by:kreuzwerker). This docker provider helps in creating docker containers and iamges through Docker API. 
